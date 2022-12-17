@@ -17,6 +17,9 @@
         //LIST UNIT ADMOB PER APLIKASI by Package Name
         "BannerAdmob_com.packagename": "ca-app-pub-3940256099942544/6300978111", // <---CONTOH DENGAN UNIT TEST ID
         "BannerAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/6300978111", // <---CONTOH DENGAN UNIT TEST ID
+        
+        "OpenAppAdmob_com.packagename": "ca-app-pub-3940256099942544/3419835294", // <---CONTOH DENGAN UNIT TEST ID
+        "OpenAppAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/3419835294", // <---CONTOH DENGAN UNIT TEST ID
 
         "InterstitialAdmob_com.packagename": "ca-app-pub-3940256099942544/1033173712", // <---CONTOH DENGAN UNIT TEST ID
         "InterstitialAdmob_com.surgana.mediaplayer": "ca-app-pub-3940256099942544/1033173712", // <---CONTOH DENGAN UNIT TEST ID
